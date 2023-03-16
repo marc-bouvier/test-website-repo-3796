@@ -14,4 +14,4 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 - Projets à **impact social positif**
 - Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
 
-![c'est suffisant!](/images/david_goodenough_base.jpeg)
+![c'est suffisant!](https://github.com/marc-bouvier/test-website-repo-3796/blob/main/images/david_goodenough_base.jpeg)
